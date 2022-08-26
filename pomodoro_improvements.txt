@@ -7,4 +7,5 @@
 5. package the pomodoro timeras app
 6. trend of sessions over days/week
 7. print the current time at the start of each session --> idea of time elapsed $$done
-8i. store data in a file/datastore
+8. store data in a file/datastore
+
