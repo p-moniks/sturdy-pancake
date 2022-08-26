@@ -6,4 +6,4 @@
 4. number of session
 5. package the pomodoro timeras app
 6. trend of sessions over days/week
-
+7. print the current time at the start of each pomodoro session --> idea of how much time has elapsed
