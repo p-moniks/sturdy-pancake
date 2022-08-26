@@ -43,9 +43,9 @@ def main_menu():
         choice = input("a- 25 min\nb- 50 min\nc- custom\nq- quit!\n")
         print("choice", choice)
         if(choice =='a'):
-            pomodoro(2)
+            pomodoro(25)
         elif(choice =='b'):
-            pomodoro(5)
+            pomodoro(50)
         elif(choice == 'c'):
             custom = input('enter minutes (int):')
             pomodoro(int(custom))
