@@ -1,0 +1,10 @@
+ ### post usage improvement ideas ###
+
+1. gracefully interrupt ongoing timer
+2. alert for the break time as well $$done
+3. cumulative time spent in focus sessions
+4. number of session $$done
+5. package the pomodoro timeras app
+6. trend of sessions over days/week
+7. print the current time at the start of each session --> idea of time elapsed $$done
+8. store data in a file/datastore
