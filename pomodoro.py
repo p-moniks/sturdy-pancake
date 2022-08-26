@@ -61,6 +61,7 @@ def main_menu():
             custom = input('enter minutes (int):')
             counter += custom/25 
             pomodoro(int(custom))
+            break_time(5)
         elif(choice =='q'):
             print('total sessions:','{:.1f}'.format(counter))
             print("bye !")
