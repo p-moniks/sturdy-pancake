@@ -1,2 +1,2 @@
 # sturdy-pancake
-exploratory mini stuff
+exploratory random questions
